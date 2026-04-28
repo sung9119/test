@@ -1,0 +1,683 @@
+<libraryContent>
+  <libraryObject>
+    <name>Coaching (Quota Time)</name>
+    <version>12.2.21-56040</version>
+    <description></description>
+  </libraryObject>
+  <lists>
+    <entry>
+      <string>com.scur.type.string.808</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="openai.com" id="com.scur.type.string.808" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>openai.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.770</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="firefly.adobe.com" id="com.scur.type.string.770" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>firefly.adobe.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.728</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="copilot.microsoft.com" id="com.scur.type.string.728" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>copilot.microsoft.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.827</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="deepseek.com" id="com.scur.type.string.827" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>deepseek.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.795</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="www.jasper.ai" id="com.scur.type.string.795" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>www.jasper.ai</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.799</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="AI Site" id="com.scur.type.string.799" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>chatgpt.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>gemini.google.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>copilot.microsoft.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>clova-x.naver.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>www.jasper.ai</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>www.midjourney.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>openai.com</entry>
+            <description></description>
+          </listEntry>
+          <listEntry>
+            <entry>firefly.adobe.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.789</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="Clova-x.naver.com" id="com.scur.type.string.789" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>Clova-x.naver.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.704</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="chatgpt.com" id="com.scur.type.string.704" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>chatgpt.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.716</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="gemini.google.com" id="com.scur.type.string.716" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>gemini.google.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+    <entry>
+      <string>com.scur.type.string.802</string>
+      <list version="1.0.3.46" mwg-version="12.2.21-56040" name="www.midjourney.com" id="com.scur.type.string.802" typeId="com.scur.type.string" classifier="Other" systemList="false" structuralList="false" defaultRights="2">
+        <description></description>
+        <content>
+          <listEntry>
+            <entry>www.midjourney.com</entry>
+            <description></description>
+          </listEntry>
+        </content>
+      </list>
+    </entry>
+  </lists>
+  <configurations>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.771" defaultRights="2" templateId="com.scur.template.engine.timequota" name="FireFly Session Time" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.729" defaultRights="2" templateId="com.scur.template.engine.timequota" name="Copilot Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="180"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="3"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.737" defaultRights="2" templateId="com.scur.template.engine.timequota" name="Clova Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.738" defaultRights="2" templateId="com.scur.template.engine.timequota" name="Jasper Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.750" defaultRights="2" templateId="com.scur.template.engine.timequota" name="DALL-E Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.4" mwg-version="12.2.21-56040" id="com.scur.mainaction.redirect.768" defaultRights="2" templateId="com.scur.template.mainaction.redirect" name="Redirection After Time Session Activation" targetId="com.scur.mainaction.redirect">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="templateName" type="com.scur.type.string" encrypted="false" value="redirected"/>
+        <configurationProperty key="redirectUrl" type="com.scur.type.string" encrypted="false" value="$&lt;propertyInstance useMostRecentConfiguration=&quot;false&quot; propertyId=&quot;com.scur.template.mainaction.redirect.redirecturlTextField&quot;/>$"/>
+        <configurationProperty key="lasturl" type="com.scur.type.boolean" encrypted="false" value="true"/>
+        <configurationProperty key="DirectoryName" type="com.scur.type.string" encrypted="false" value="default"/>
+        <configurationProperty key="language" type="com.scur.type.string" encrypted="false" value="auto"/>
+        <configurationProperty key="custom" type="com.scur.type.boolean" encrypted="false" value="false"/>
+        <configurationProperty key="url" type="com.scur.type.string" encrypted="false" value=""/>
+        <configurationProperty key="BlockReasonID" type="com.scur.type.number" encrypted="false" value="300"/>
+        <configurationProperty key="BlockReason" type="com.scur.type.string" encrypted="false" value="Quota Redirect"/>
+      </configurationProperties>
+      <description>Default configuration for redirection after quota session activation.</description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.744" defaultRights="2" templateId="com.scur.template.engine.timequota" name="Midijourney" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.766" defaultRights="2" templateId="com.scur.template.engine.timequota" name="URL Category Configuration" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="1"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="1"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="60"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+      </configurationProperties>
+      <description>Time quota configuration for URLs.</description>
+    </configuration>
+    <configuration version="1.6" mwg-version="12.2.21-56040" id="com.scur.mainaction.block.702" defaultRights="2" templateId="com.scur.template.mainaction.block" name="Coaching Time Session" targetId="com.scur.mainaction.block">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="DirectoryName" type="com.scur.type.string" encrypted="false" value="CoachingSchema"/>
+        <configurationProperty key="TemplateName" type="com.scur.type.string" encrypted="false" value="CoachingPageSessionTime"/>
+        <configurationProperty key="Language" type="com.scur.type.string" encrypted="false" value="auto"/>
+        <configurationProperty key="BlockReasonID" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="BlockReason" type="com.scur.type.string" encrypted="false" value=""/>
+        <configurationProperty key="EnableRedirect" type="com.scur.type.boolean" encrypted="false" value="false"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.6" mwg-version="12.2.21-56040" id="com.scur.mainaction.block.15583" defaultRights="2" templateId="com.scur.template.mainaction.block" name="(Default)" targetId="com.scur.mainaction.block">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="TemplateName" type="com.scur.type.string" encrypted="false" value="DefaultErrorTemplate"/>
+        <configurationProperty key="BlockReasonID" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="BlockReason" type="com.scur.type.string" encrypted="false" value="Default Error Template"/>
+        <configurationProperty key="Language" type="com.scur.type.string" encrypted="false" value="auto"/>
+        <configurationProperty key="DirectoryName" type="com.scur.type.string" encrypted="false" value="default"/>
+        <configurationProperty key="EnableRedirect" type="com.scur.type.boolean" encrypted="false" value="false"/>
+      </configurationProperties>
+      <description>Default block action.</description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.717" defaultRights="2" templateId="com.scur.template.engine.timequota" name="Gemini Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="120"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+    <configuration version="1.0.2.3" mwg-version="12.2.21-56040" id="com.scur.engine.timequota.703" defaultRights="2" templateId="com.scur.template.engine.timequota" name="ChatGPT Session Timer" targetId="com.scur.engine.timequota">
+      <acElements/>
+      <configurationProperties>
+        <configurationProperty key="day" type="com.scur.type.number" encrypted="false" value="1800"/>
+        <configurationProperty key="month" type="com.scur.type.number" encrypted="false" value="36000"/>
+        <configurationProperty key="week" type="com.scur.type.number" encrypted="false" value="9000"/>
+        <configurationProperty key="session" type="com.scur.type.number" encrypted="false" value="60"/>
+        <configurationProperty key="hoursday" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutesday" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursweek" type="com.scur.type.number" encrypted="false" value="2"/>
+        <configurationProperty key="minutesweek" type="com.scur.type.number" encrypted="false" value="30"/>
+        <configurationProperty key="hoursmonth" type="com.scur.type.number" encrypted="false" value="10"/>
+        <configurationProperty key="minutesmonth" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="hourssession" type="com.scur.type.number" encrypted="false" value="0"/>
+        <configurationProperty key="minutessession" type="com.scur.type.number" encrypted="false" value="1"/>
+        <configurationProperty key="selecttimequota" type="com.scur.type.number" encrypted="false" value="4"/>
+      </configurationProperties>
+      <description></description>
+    </configuration>
+  </configurations>
+  <ruleGroup id="387" defaultRights="2" name="Coaching (Quota Time)" enabled="true" cycleRequest="true" cycleResponse="false" cycleEmbeddedObject="false" cloudSynced="false">
+    <acElements/>
+    <condition always="false">
+      <expressions>
+        <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+          <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.sslclientcontext.isapplied"/>
+          <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+        </conditionExpression>
+        <conditionExpression prefix="OR" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.notequals">
+          <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.command.name"/>
+          <parameter valueTyp="3" typeId="com.scur.type.string">
+            <value>
+              <stringValue value="CONNECT" stringModifier="true" typeId="com.scur.type.string"/>
+            </value>
+          </parameter>
+        </conditionExpression>
+      </expressions>
+    </condition>
+    <description></description>
+    <rules/>
+    <ruleGroups>
+      <ruleGroup id="391" defaultRights="2" name="Time Quota With URL Configuration" enabled="true" cycleRequest="true" cycleResponse="true" cycleEmbeddedObject="true" cloudSynced="false">
+        <acElements/>
+        <condition always="true">
+          <expressions>
+            <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+              <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                <parameters>
+                  <entry>
+                    <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                    <parameter valueTyp="1">
+                      <value>
+                        <listValue id="com.scur.type.string.799"/>
+                      </value>
+                    </parameter>
+                  </entry>
+                </parameters>
+              </propertyInstance>
+              <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+            </conditionExpression>
+            <conditionExpression prefix="OR" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+              <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.766" propertyId="com.scur.engine.timequota.isactivationrequest.strict"/>
+              <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+            </conditionExpression>
+          </expressions>
+        </condition>
+        <description>This ruleset contains Time Quota rules in combination with URL Configuration. With these rules quotas for URLs of the URL block list can be defined.</description>
+        <rules>
+          <rule id="397" enabled="true" name="Redirecting After Starting New Time Session">
+            <description>This rule redirects the user back to the requested URL after the user started a new session by pushing the button in the HTML Session template.</description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.redirect.768" actionId="com.scur.mainaction.redirect"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.timequota.isactivationrequest"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="402" enabled="true" name="Check If Time Session Has Been Exceeded - ChatGPT">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.704"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.703" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="711" enabled="true" name="Check If Time Session Has Been Exceeded - Gemini">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.716"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.717" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="723" enabled="true" name="Check If Time Session Has Been Exceeded - Copilot">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.728"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.729" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="785" enabled="true" name="Check If Time Session Has Been Exceeded - Clova">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.789"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.737" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="792" enabled="true" name="Check If Time Session Has Been Exceeded - Jasper">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.795"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.738" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="741" enabled="true" name="Check If Time Session Has Been Exceeded - Midjourney">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.802"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.744" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="747" enabled="true" name="Check If Time Session Has Been Exceeded - DALL-E">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.808"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.750" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="753" enabled="true" name="Check If Time Session Has Been Exceeded - FireFly">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.702" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.770"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+                <conditionExpression prefix="AND" openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" configurationId="com.scur.engine.timequota.771" propertyId="com.scur.engine.timequota.sessionexceeded"/>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+          <rule id="777" enabled="true" name="Deepseek Bloxk">
+            <description></description>
+            <immediateActionContainers/>
+            <actionContainer configurationId="com.scur.mainaction.block.15583" actionId="com.scur.mainaction.block"/>
+            <condition always="false">
+              <expressions>
+                <conditionExpression openingBracketCount="0" closingBracketCount="0" operatorId="com.scur.operator.equals">
+                  <propertyInstance useMostRecentConfiguration="false" propertyId="com.scur.engine.system.url.smartmatch">
+                    <parameters>
+                      <entry>
+                        <string>com.scur.engine.system.string.domainmagicmatch.domainlist</string>
+                        <parameter valueTyp="1">
+                          <value>
+                            <listValue id="com.scur.type.string.827"/>
+                          </value>
+                        </parameter>
+                      </entry>
+                    </parameters>
+                  </propertyInstance>
+                  <parameter valueTyp="3" valueId="com.scur.type.boolean.true" typeId="com.scur.type.boolean"/>
+                </conditionExpression>
+              </expressions>
+            </condition>
+          </rule>
+        </rules>
+        <ruleGroups/>
+      </ruleGroup>
+    </ruleGroups>
+  </ruleGroup>
+</libraryContent>
