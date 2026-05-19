@@ -1,0 +1,7 @@
+SWG 및 DLP 소개 자료 및 스펙 정보를 공유드립니다.
+
+Skyhigh WBG-5000-F  
+벤더 공식 문서 : https://success.myshn.net/Skyhigh_Secure_Web_Gateway_(On_Prem)/Secure_Web_Gateway_Reference/Hardware_Specifications/Secure_Web_Gateway_Model_F_Appliances_Data_Sheet
+
+Trellix DLP-8800-AA
+             벤더 공식 문서 : https://docs.trellix.com/bundle/data-loss-prevention-monitor-11.10.x-hardware-guide/page/GUID-63F6EDE9-B796-47AE-967B-3029D7E5FAA9.html
